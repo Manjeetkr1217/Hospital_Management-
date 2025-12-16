@@ -10,9 +10,10 @@ A simple application where users can add and view their details stored in a data
 
 # Technologies Used
 
-* Core Java
-* JDBC
-* MySQL (or any relational database)
+* Spring Boot
+* Spring Data Jpa
+* RESTFul API (For performing different operations)
+* MySQL (For storing and retrieving data from database
 
 # How It Works
 
@@ -22,4 +23,4 @@ A simple application where users can add and view their details stored in a data
 
 # Project Goal
 
-To understand and implement basic database operations in Java using JDBC.
+To understand and implement Spring data jpa and RESTFul APIs. 
