@@ -1,5 +1,5 @@
 # Hospital-Management-
-A simple application where users can add and view their details stored in a database. It focuses on basic data storage and retrieval using Java and JDBC. I developed the whole project including database connection and data handling.
+A simple application where users can add and view their details stored in a database. It focuses on basic data storage and retrieval using spring Boot, Soring Data JPA and RESTFul APIs. I developed the whole project including database connection and data handling.
 
 # Features
 
